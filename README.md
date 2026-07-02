@@ -3,7 +3,8 @@
 Skills & Certifications
 
 Certifications
-FE / AP / CCNA / AWS SCS / ISC2 / OSCP / CRTO
+FE / AP / CCNA / AWS SCS
+ISC2 / OSCP / CRTO
 (Currently studying: OSED)
 
 Experience
